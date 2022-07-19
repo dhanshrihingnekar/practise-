@@ -1,0 +1,17 @@
+* {
+    padding:0px;
+    margin:0px;
+}
+.navstyle {
+    background-color: black;
+    height:auto
+    height: 40px;
+}
+
+.linkstyle {
+    color: white;
+    text-decoration: none;
+    margin: 46px;
+    padding: 78px;
+}
+
